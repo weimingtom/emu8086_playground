@@ -1,6 +1,9 @@
 # emu8086_playground
 [WIP] My Emu8086 playground
 
+## emu8086  
+* https://github.com/AhmadNaserTurnkeySolutions/emu8086  
+
 ## basic  
 * https://github.com/weimingtom/wmt_basic_study
 
